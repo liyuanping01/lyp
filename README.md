@@ -4,7 +4,7 @@
 Foobar is a Python library for dealing with word pluralization.
 ```python
 import foobar
-foobar.pluralize('word') # returns 'words'
+foobar.pluralize('word')# returns 'words'
 foobar.pluralize('goose') # returns 'geese'
 foobar.singularize('phenomena') # returns 'phenomenon'
 ```
